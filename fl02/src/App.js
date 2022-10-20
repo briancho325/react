@@ -4,7 +4,8 @@
  */
 
 // import data and module
-// code here
+import data from "./data/famous-location.json";
+import Famous from "./components/Famous";
 
 function App() {
   return (
@@ -14,3 +15,4 @@ function App() {
 
 // export module
 // code here
+export default App;

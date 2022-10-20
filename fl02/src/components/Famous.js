@@ -4,7 +4,7 @@
  */
 
 // import module
-// code here
+import Place from "./Place";
 
 const Famous = props => (
   <div>
@@ -27,4 +27,4 @@ const Famous = props => (
 );
 
 // export module
-// code here
+export default Famous;

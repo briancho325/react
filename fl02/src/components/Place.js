@@ -5,7 +5,8 @@
 
 // import modules
 // code here
-
+import Location from "./Location";
+import Majors from "./Majors";
 const Place = ({ name, locations, majors }) => (
   <section id={name.toLowerCase().replace(/ /g, "-")}>
     <h2>{name}</h2>
@@ -16,3 +17,4 @@ const Place = ({ name, locations, majors }) => (
 
 // export module
 // code here
+export default Place;

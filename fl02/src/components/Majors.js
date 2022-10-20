@@ -16,3 +16,4 @@ const Majors = ({ majors }) => (
 
 // export module
 // code here
+export default Majors;

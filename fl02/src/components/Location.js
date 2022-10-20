@@ -2,7 +2,6 @@
  * proj_path: ch06/ex/proj/famous-location-02
  * ./src/components/Location.js
  */
-
 const Location = ({ locations }) => (
   <>
     <h3>Location</h3>
@@ -16,3 +15,4 @@ const Location = ({ locations }) => (
 
 // export module
 // code here
+export default Location;
